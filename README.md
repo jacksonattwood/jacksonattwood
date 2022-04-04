@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
+### To be honest, I have no clue what to put here. 
+
+- I write all sorts of stuff, and use jank code to hold projects together like a bandaid. 
 <!--
 **jacksonattwood/jacksonattwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
